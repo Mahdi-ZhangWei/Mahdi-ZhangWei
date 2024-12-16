@@ -1,4 +1,4 @@
-# Hi there, I'm [Mahdi Ahmadi] 👋
+# Hi there, I'm Mahdi Ahmadi 👋
 
 
 ## 🚀 About Me
