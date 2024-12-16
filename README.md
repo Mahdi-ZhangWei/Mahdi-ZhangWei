@@ -1,6 +1,5 @@
 # Hi there, I'm [Mahdi Ahmadi] 👋
 
-![Profile views](https://www.linkedin.com/in/mah-ahmadi313) 
 
 ## 🚀 About Me
 - 🔭 I’m currently working on Python projects for data analysis
@@ -21,7 +20,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/mohammad-mahdi-ahmadi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/mah-ahmadi313)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://twitter.com/your-twitter-username)
 
 
