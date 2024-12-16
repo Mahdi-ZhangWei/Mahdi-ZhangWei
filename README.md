@@ -21,7 +21,7 @@
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/mah-ahmadi313)
-[![X](https://img.shields.io/badge/X-blue?logo=x)](https://www.x3.com/ahmadi_mah313)
+[![X](https://img.shields.io/badge/X-blue?logo=x)](https://www.x.com/ahmadi_mah313)
 [![Facebook](https://shields.io/badge/Facebook-blue?logo=facebook)](https://www.facebook.com/ahmadimah313)
 [![Instagram](https://shields.io/badge/Instagram-blue?logo=instagram)](https://www.facebook.com/ahmadimah313)
 
