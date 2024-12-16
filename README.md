@@ -3,7 +3,7 @@
 ![Profile views](https://gpvc.arturio.dev/your-username) <!-- Optional: Profile views count -->
 
 ## 🚀 About Me
-- 🔭 I’m currently working on [Project Name](Project URL)
+- 🔭 I’m currently working on Python projects for data analysis
 - 🌱 I’m learning Computer Science and Technology in China university of Petroleum.
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 💬 Ask me about Python and Database.
