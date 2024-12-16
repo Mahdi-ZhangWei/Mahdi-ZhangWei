@@ -24,6 +24,7 @@
 [![X](https://img.shields.io/badge/X-blue?logo=x)](https://www.x.com/ahmadi_mah313)
 [![Facebook](https://shields.io/badge/Facebook-blue?logo=facebook)](https://www.facebook.com/ahmadimah313)
 [![Instagram](https://shields.io/badge/Instagram-blue?logo=instagram)](https://www.facebook.com/ahmadimah313)
+[![Discord](https://shields.io/badge/Discord-blue?logo=Discord)](https://www.discord.com/zhangwei0013)
 
 <!---
 Mahdi-ZhangWei/Mahdi-ZhangWei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
