@@ -1,6 +1,6 @@
 # Hi there, I'm [Mahdi Ahmadi] 👋
 
-![Profile views](https://gpvc.arturio.dev/your-username) <!-- Optional: Profile views count -->
+![Profile views](www.linkedin.com/in/mah-ahmadi313) 
 
 ## 🚀 About Me
 - 🔭 I’m currently working on Python projects for data analysis
