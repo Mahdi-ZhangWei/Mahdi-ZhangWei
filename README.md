@@ -18,7 +18,7 @@
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ## Others
 ![OPENAI](https://img.shields.io/badge/openai-blue.svg?style=for-the-badge&logo=openai&logoColor=white)
-![GIT](https://img.shields.io/badge/git-blue.svg?style=for-the-badge&logo=photoshop&logoColor=git)
+![GIT](https://img.shields.io/badge/git-brown.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
 
