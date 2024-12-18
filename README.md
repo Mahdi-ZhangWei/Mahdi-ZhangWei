@@ -22,7 +22,7 @@
 ## 🖥️ Workspace Setup
 ![WINDOWS 11](https://img.shields.io/badge/Windows-blue.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![LINUX](https://img.shields.io/badge/linux-brown.svg?style=for-the-badge&logo=linux&logoColor=white)
-![GIT](https://img.shields.io/badge/git-brown.svg?style=for-the-badge&logo=git&logoColor=white)
+![PYCHARM](https://img.shields.io/badge/pycharm-green.svg?style=for-the-badge&logo=pycharm&logoColor=yellow)
 
 
 ## 📈 GitHub Stats
