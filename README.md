@@ -14,15 +14,14 @@
 ![PANADAS](https://img.shields.io/badge/pandas-lightgray.svg?style=for-the-badge&logo=pandas&logoColor=blue)
 ![MATPLOTLIB](https://img.shields.io/badge/matplotlib-%23323330.svg?style=for-the-badge&logo=matplotlib&logoColor=green)
 ![NUMPY](https://img.shields.io/badge/numpy-blue.svg?style=for-the-badge&logo=numpy&logoColor=darkblue)
-![DJANDO](https://img.shields.io/badge/django-black.svg?style=for-the-badge&logo=django&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ## Others
 ![OPENAI](https://img.shields.io/badge/openai-blue.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![GIT](https://img.shields.io/badge/git-brown.svg?style=for-the-badge&logo=git&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-darkblue.svg?style=for-the-badge&logo=c++&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-orange.svg?style=for-the-badge&logo=HTML&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-blue.svg?style=for-the-badge&logo=css&logoColor=white)
-
+![DJANDO](https://img.shields.io/badge/django-black.svg?style=for-the-badge&logo=django&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 🖥️ Workspace Setup
 ![WINDOWS 11](https://img.shields.io/badge/Windows-blue.svg?style=for-the-badge&logo=windows&logoColor=white)
