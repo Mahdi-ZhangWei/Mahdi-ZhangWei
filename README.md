@@ -23,6 +23,7 @@
 ![WINDOWS 11](https://img.shields.io/badge/Windows-blue.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![LINUX](https://img.shields.io/badge/linux-brown.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![PYCHARM](https://img.shields.io/badge/pycharm-green.svg?style=for-the-badge&logo=pycharm&logoColor=black)
+![VSCODE](https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=vscode&logoColor=white)
 
 
 ## 📈 GitHub Stats
