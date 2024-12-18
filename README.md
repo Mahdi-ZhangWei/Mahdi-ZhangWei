@@ -19,11 +19,14 @@
 ## Others
 ![OPENAI](https://img.shields.io/badge/openai-blue.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![GIT](https://img.shields.io/badge/git-brown.svg?style=for-the-badge&logo=git&logoColor=white)
-
+## 🖥️ Workspace Setup
+![WINDOWS 11](https://img.shields.io/badge/Windows-brown.svg?style=for-the-badge&logo=windows&logoColor=white)
+![GIT](https://img.shields.io/badge/git-brown.svg?style=for-the-badge&logo=git&logoColor=white)
+![GIT](https://img.shields.io/badge/git-brown.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
 ## 📈 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahdi-ZhangWei&show_icons=true&theme=radical)
+![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahdi-ZhangWei&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-ZhangWei&layout=compact)
 
