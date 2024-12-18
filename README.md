@@ -16,7 +16,8 @@
 ![NUMPY](https://img.shields.io/badge/numpy-blue.svg?style=for-the-badge&logo=numpy&logoColor=darkblue)
 ![DJANDO](https://img.shields.io/badge/django-black.svg?style=for-the-badge&logo=django&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
+## Others
+![OPENAI](https://img.shields.io/badge/openai-blue.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 
 ## 📈 GitHub Stats
