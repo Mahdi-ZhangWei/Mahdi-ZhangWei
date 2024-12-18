@@ -14,7 +14,7 @@
 ![PANADAS](https://img.shields.io/badge/pandas-lightgray.svg?style=for-the-badge&logo=pandas&logoColor=blue)
 ![MATPLOTLIB](https://img.shields.io/badge/matplotlib-%23323330.svg?style=for-the-badge&logo=matplotlib&logoColor=green)
 ![NUMPY](https://img.shields.io/badge/numpy-blue.svg?style=for-the-badge&logo=numpy&logoColor=darkblue)
-![DJANDO](https://img.shields.io/badge/django-%23323330.svg?style=for-the-badge&logo=django&logoColor=%23F7DF1E)
+![DJANDO](https://img.shields.io/badge/django-black.svg?style=for-the-badge&logo=django&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 
