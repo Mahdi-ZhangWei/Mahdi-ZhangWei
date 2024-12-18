@@ -19,6 +19,8 @@
 ## Others
 ![OPENAI](https://img.shields.io/badge/openai-blue.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![GIT](https://img.shields.io/badge/git-brown.svg?style=for-the-badge&logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/c++-brown.svg?style=for-the-badge&logo=c++&logoColor=white)
+
 ## 🖥️ Workspace Setup
 ![WINDOWS 11](https://img.shields.io/badge/Windows-blue.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![LINUX](https://img.shields.io/badge/linux-brown.svg?style=for-the-badge&logo=linux&logoColor=white)
