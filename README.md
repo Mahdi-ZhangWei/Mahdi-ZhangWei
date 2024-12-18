@@ -13,6 +13,9 @@
 ![PYTHON](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PANADAS](https://img.shields.io/badge/pandas-%23323330.svg?style=for-the-badge&logo=pandas&logoColor=%23F7DF1E)
+![MATPLOTLIB](https://img.shields.io/badge/matplotlib-%23323330.svg?style=for-the-badge&logo=matplotlib&logoColor=%23F7DF1E)
+![NUMPY](https://img.shields.io/badge/numpy-%23323330.svg?style=for-the-badge&logo=numpy&logoColor=%23F7DF1E)
+![PANADAS](https://img.shields.io/badge/pandas-%23323330.svg?style=for-the-badge&logo=pandas&logoColor=%23F7DF1E)
 
 
 ## 📈 GitHub Stats
