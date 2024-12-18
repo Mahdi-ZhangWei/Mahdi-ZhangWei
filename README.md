@@ -9,7 +9,7 @@
 - 📫 How to reach me: m.mahdiahmadi12@gmail.com
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I am a pro game player.
-## 🛠 Tech Stack
+## 🛠 Skills
 ![PYTHON](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PANADAS](https://img.shields.io/badge/pandas-%23323330.svg?style=for-the-badge&logo=pandas&logoColor=%23F7DF1E)
