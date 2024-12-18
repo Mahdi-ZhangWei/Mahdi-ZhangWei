@@ -10,7 +10,7 @@
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I am a pro game player.
 ## 🛠 Skills
-![PYTHON](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![PYTHON](https://img.shields.io/badge/python-yellow.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![PANADAS](https://img.shields.io/badge/pandas-%23323330.svg?style=for-the-badge&logo=pandas&logoColor=darkblue)
 ![MATPLOTLIB](https://img.shields.io/badge/matplotlib-%23323330.svg?style=for-the-badge&logo=matplotlib&logoColor=green)
