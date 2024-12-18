@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I am a pro game player.
 ## 🛠 Skills
 ![PYTHON](https://img.shields.io/badge/python-yellow.svg?style=for-the-badge&logo=python&logoColor=blue)
-![JAVASCRIPT](https://img.shields.io/badge/javascript-golden.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/javascript-lemonyellow.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![PANADAS](https://img.shields.io/badge/pandas-%23323330.svg?style=for-the-badge&logo=pandas&logoColor=darkblue)
 ![MATPLOTLIB](https://img.shields.io/badge/matplotlib-%23323330.svg?style=for-the-badge&logo=matplotlib&logoColor=green)
 ![NUMPY](https://img.shields.io/badge/numpy-blue.svg?style=for-the-badge&logo=numpy&logoColor=darkblue)
