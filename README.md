@@ -1,5 +1,5 @@
 # Hi there, I'm Mahdi Ahmadi 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+Name+is+Mahdi;I+Love+Data+Analysist)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 - 🔭 I’m currently working on Python projects for data analysis
