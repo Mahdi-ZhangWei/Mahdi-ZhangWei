@@ -19,7 +19,10 @@
 ## Others
 ![OPENAI](https://img.shields.io/badge/openai-blue.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![GIT](https://img.shields.io/badge/git-brown.svg?style=for-the-badge&logo=git&logoColor=white)
-![C++](https://img.shields.io/badge/c++-brown.svg?style=for-the-badge&logo=c++&logoColor=white)
+![C++](https://img.shields.io/badge/c++-darkblue.svg?style=for-the-badge&logo=c++&logoColor=white)
+![HTML](https://img.shields.io/badge/c++-orange.svg?style=for-the-badge&logo=c++&logoColor=white)
+![CSS](https://img.shields.io/badge/c++-blue.svg?style=for-the-badge&logo=c++&logoColor=white)
+
 
 ## 🖥️ Workspace Setup
 ![WINDOWS 11](https://img.shields.io/badge/Windows-blue.svg?style=for-the-badge&logo=windows&logoColor=white)
