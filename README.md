@@ -18,6 +18,8 @@
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ## Others
 ![OPENAI](https://img.shields.io/badge/openai-blue.svg?style=for-the-badge&logo=openai&logoColor=white)
+![PHOTOSHOP](https://img.shields.io/badge/photoshop-blue.svg?style=for-the-badge&logo=photoshop&logoColor=white)
+
 
 
 ## 📈 GitHub Stats
