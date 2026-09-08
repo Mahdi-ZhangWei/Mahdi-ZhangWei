@@ -105,15 +105,18 @@ Software Engineering
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahdi-ZhangWei&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-ZhangWei&layout=compact&hide_border=true" height="170"/>
-</p>
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mahdi-ZhangWei&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Mahdi-ZhangWei&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-ZhangWei&layout=compact&hide_border=true&langs_count=8"
+    height="180"
+  />
 </p>
-
 ---
 
 ## 🐍 Contribution Activity
