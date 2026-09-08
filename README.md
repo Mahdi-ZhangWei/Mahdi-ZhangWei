@@ -1,5 +1,5 @@
 # Hi there, I'm Mahdi Ahmadi 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+page!;I+am+a+Data+Science+enthusiast!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+page!;I+am+Interested+in+Artificial+Inteelligence+and+Computer+Vision!)](https://git.io/typing-svg)
 
 I'm a Computer Science & Technology student at **China University of Petroleum** with a strong interest in **Artificial Intelligence, Computer Vision, Software Engineering, and Data-driven applications**.
 
