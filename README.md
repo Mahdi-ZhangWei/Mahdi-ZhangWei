@@ -149,13 +149,11 @@ Development Environment
 </p>
 
 ---
-
-# 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mahdi-ZhangWei&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" width="95%"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
-
 ---
 
 # 🎯 Current Focus
